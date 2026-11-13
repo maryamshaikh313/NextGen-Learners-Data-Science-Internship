@@ -1,0 +1,86 @@
+Applicant Name,Email,Phone,Domain Applied,University,Application Date,Status,num_skills_listed,has_portfolio,prior_hackathon_participation,statement_quality_score
+Donna Armstrong,not_provided@example.com,03012978936,Web Development,Not Specified,2026-05-12,Under Review,7,Yes,No,6
+Vincent Flores,loribullock@example.org,03015219714,Data Science,NED University,2026-05-12,Rejected,4,No,Yes,4
+Charles Lewis,schmidttheresa@example.org,03012830694,Cyber Security,NED University,2026-05-12,Under Review,5,Yes,No,5
+Sean White,michaelsalazar@example.net,03012569702,Cyber Security,NED University,2026-05-12,Selected,7,No,No,5
+Cheryl Wong,danielsrobert@example.net,03011644335,Web Development,NED University,2026-05-12,Selected,3,Yes,No,9
+Kayla Smith,rrivera@example.com,03014779247,Data Science,NED University,2026-05-12,Under Review,8,Yes,Yes,7
+Natalie Mullen,eric68@example.net,03011556310,Graphic Design,NED University,2026-05-12,Rejected,5,No,No,5
+Amber Henry,canderson@example.org,03018149485,Data Science,NED University,2026-05-12,Selected,5,Yes,Yes,4
+Brett Ramos,jrice@example.com,03015778376,Web Development,NED University,2026-05-12,Rejected,7,No,No,9
+Nicholas Cortez,jacquelinechristian@example.org,03018201404,Artificial Intelligence,Not Specified,2026-05-12,Under Review,2,No,No,6
+Peter Hall,mark39@example.org,03013719624,Data Science,NED University,2026-05-12,Under Review,3,Yes,No,7
+Jason Turner,lisajohnson@example.com,03012825914,Web Development,NED University,2026-05-12,Selected,7,No,Yes,4
+Kristy Clayton Dvm,not_provided@example.com,03012733742,Artificial Intelligence,NED University,2026-05-12,Under Review,3,No,Yes,6
+Lisa Reyes,susan52@example.org,03015549034,Web Development,NED University,2026-05-12,Selected,3,Yes,Yes,8
+Molly Mckenzie,albertmurphy@example.org,03013205346,Artificial Intelligence,NED University,2026-05-12,Selected,8,Yes,No,7
+Taylor Butler,ojones@example.org,03016029826,Cyber Security,NED University,2026-05-12,Under Review,5,No,No,7
+Lisa Obrien,ykennedy@example.org,03017178339,Cyber Security,NED University,2026-05-12,Rejected,4,No,Yes,7
+Pam Flores,cdickerson@example.net,03012278052,Web Development,NED University,2026-05-12,Rejected,8,No,No,2
+Courtney Anderson,jeffrey67@example.net,03015966235,Web Development,Not Specified,2026-05-12,Rejected,8,No,No,6
+Christopher Johnson,tmeadows@example.org,03012805633,Artificial Intelligence,NED University,2026-05-12,Under Review,3,No,No,6
+Tina Ruiz Dvm,qknight@example.net,03018718073,Cyber Security,NED University,2026-05-12,Under Review,6,No,No,6
+Corey Jimenez,joshuamitchell@example.net,03013839993,Artificial Intelligence,NED University,2026-05-12,Under Review,5,No,Yes,3
+Joanna Sutton,jocelyn23@example.com,03014626055,Cyber Security,NED University,2026-05-12,Under Review,2,No,No,8
+Christopher Long,cathysmith@example.net,03012309046,Cyber Security,NED University,2026-05-12,Rejected,8,No,No,5
+Sean Hernandez,not_provided@example.com,03015218356,Web Development,NED University,2026-05-12,Selected,4,Yes,No,4
+Christian Chavez,zbecker@example.net,03017477316,Data Science,NED University,2026-05-12,Under Review,6,Yes,No,5
+Julia Vang,cbaker@example.net,03014795642,Cyber Security,NED University,2026-05-12,Under Review,6,Yes,No,6
+John Boyd,williamkennedy@example.com,03012049594,Data Science,Not Specified,2026-05-12,Selected,2,Yes,No,8
+Christina Murray,angela36@example.net,03016403534,Artificial Intelligence,NED University,2026-05-12,Under Review,8,Yes,No,6
+Katrina Schneider,hjohnson@example.org,03012221571,Data Science,NED University,2026-05-12,Under Review,4,Yes,Yes,6
+Charles Porter,danawashington@example.org,03016390529,Data Science,NED University,2026-05-12,Selected,5,Yes,No,10
+Andrew Fields,agarrison@example.net,03017748712,Cyber Security,NED University,2026-05-12,Selected,1,Yes,Yes,10
+Alexander Elliott,jason10@example.org,03013508098,Data Science,NED University,2026-05-12,Rejected,4,No,No,3
+Brandon Hill,donald25@example.org,03015248833,Cyber Security,NED University,2026-05-12,Under Review,2,No,No,5
+Scott Jones,williamsjennifer@example.net,03015519183,Cyber Security,NED University,2026-05-12,Under Review,6,No,No,6
+Kevin Thomas,garygarrett@example.net,03018299037,Cyber Security,NED University,2026-05-12,Selected,5,No,No,4
+Jerry Cantu,not_provided@example.com,03017184403,Data Science,Not Specified,2026-05-12,Rejected,4,No,No,2
+Suzanne Dixon,nicholsamber@example.com,03019659543,Graphic Design,NED University,2026-05-12,Selected,1,No,No,4
+Jordan Johnson,richardchan@example.org,03011901592,Web Development,NED University,2026-05-12,Rejected,1,No,Yes,2
+Kathleen Williams,brewerrobert@example.com,03013795163,Cyber Security,NED University,2026-05-12,Selected,3,Yes,No,10
+Natasha Fischer,ypeters@example.net,03012176929,Artificial Intelligence,NED University,2026-05-12,Selected,3,Yes,No,5
+Christopher Strickland,jacksonandrew@example.net,03018963685,Graphic Design,NED University,2026-05-12,Under Review,7,Yes,No,4
+Margaret Atkins,kmiller@example.org,03011303730,Cyber Security,NED University,2026-05-12,Selected,2,No,Yes,9
+Vanessa Shelton,maymorgan@example.com,03015587694,Cyber Security,NED University,2026-05-12,Under Review,8,No,Yes,5
+Susan Young,kaylahunter@example.net,03012982645,Data Science,NED University,2026-05-12,Selected,4,Yes,No,8
+Sarah Davis,samuel86@example.net,03013764557,Graphic Design,Not Specified,2026-05-12,Selected,4,Yes,No,6
+Christopher Guerrero,aaron94@example.net,03015530045,Graphic Design,NED University,2026-05-12,Rejected,8,No,No,1
+Jeff Hall,bstokes@example.org,03019628596,Web Development,NED University,2026-05-12,Under Review,7,Yes,Yes,7
+John Garner,not_provided@example.com,03019628280,Cyber Security,NED University,2026-05-12,Rejected,6,No,No,2
+April Hart,davisyolanda@example.com,03013675328,Artificial Intelligence,NED University,2026-05-12,Rejected,6,No,No,4
+Alexis Lee,lambryan@example.com,03011120705,Cyber Security,NED University,2026-05-12,Under Review,7,No,No,4
+Allen Robles,megan52@example.com,03019308554,Web Development,NED University,2026-05-12,Selected,6,Yes,No,7
+Sandra Gardner,wbates@example.net,03017200917,Data Science,NED University,2026-05-12,Rejected,3,No,No,3
+Kenneth Garza,thomas63@example.org,03012082934,Data Science,NED University,2026-05-12,Under Review,4,Yes,No,6
+Eric Maxwell,laura63@example.org,03012432435,Web Development,Not Specified,2026-05-12,Selected,7,No,Yes,4
+Amy Navarro,amyhamilton@example.net,03012272304,Graphic Design,NED University,2026-05-12,Rejected,4,Yes,No,8
+Donna Franklin,phillip37@example.net,03013265162,Cyber Security,NED University,2026-05-12,Selected,8,Yes,No,5
+Jake Carey,johnjohnson@example.net,03013881481,Data Science,NED University,2026-05-12,Under Review,1,Yes,Yes,8
+Gregory Hall,baldwinleah@example.com,03018210187,Data Science,NED University,2026-05-12,Under Review,3,No,Yes,6
+Karen Haynes,ggonzalez@example.net,03014485865,Cyber Security,NED University,2026-05-12,Under Review,5,No,No,6
+Cole Palmer,not_provided@example.com,03017805090,Cyber Security,NED University,2026-05-12,Under Review,3,No,No,6
+Jessica Smith,istokes@example.net,03018461210,Graphic Design,NED University,2026-05-12,Selected,7,No,Yes,4
+Timothy Mcconnell,vincentdavis@example.org,03013141224,Data Science,NED University,2026-05-12,Rejected,5,Yes,No,6
+Charles Cooper,craigamanda@example.org,03012185287,Artificial Intelligence,Not Specified,2026-05-12,Selected,1,No,No,6
+April Stevens,klopez@example.com,03014971795,Cyber Security,NED University,2026-05-12,Rejected,7,No,No,7
+April Kelly,madisonpotts@example.org,03011231753,Web Development,NED University,2026-05-12,Selected,2,Yes,No,7
+Katie Spencer,james99@example.org,03014952116,Web Development,NED University,2026-05-12,Selected,4,No,Yes,6
+Sara Brock,stephanie15@example.org,03016654781,Web Development,NED University,2026-05-12,Under Review,1,No,No,3
+Darrell Ward,shafferbryan@example.org,03015104166,Data Science,NED University,2026-05-12,Selected,4,No,No,6
+Heidi Scott,williamarmstrong@example.org,03014705408,Graphic Design,NED University,2026-05-12,Rejected,6,No,No,5
+Debra Nichols,sarah00@example.org,03019041214,Data Science,NED University,2026-05-12,Selected,2,No,No,5
+James Burke,omason@example.net,03017940443,Data Science,NED University,2026-05-12,Selected,2,Yes,No,3
+Jeremy Austin,not_provided@example.com,03012737340,Cyber Security,Not Specified,2026-05-12,Selected,1,Yes,No,5
+Kaylee Reeves,duranmarie@example.org,03017055237,Artificial Intelligence,NED University,2026-05-12,Selected,2,Yes,No,9
+Timothy Johnson,curryleslie@example.net,03018946484,Cyber Security,NED University,2026-05-12,Selected,5,Yes,No,10
+Benjamin Saunders,curtishampton@example.net,03012762288,Web Development,NED University,2026-05-12,Selected,2,Yes,No,6
+Mark West,zsparks@example.org,03016803664,Web Development,NED University,2026-05-12,Rejected,4,No,No,2
+James Morrow,glenn50@example.net,03014325459,Data Science,NED University,2026-05-12,Under Review,4,Yes,No,5
+Sara Adams,wesley91@example.net,03018637597,Web Development,NED University,2026-05-12,Selected,7,Yes,No,7
+Dustin Alvarez,ryanwatkins@example.org,03014189529,Data Science,NED University,2026-05-12,Selected,4,Yes,No,8
+Shannon Luna,ashleythomas@example.org,03015302167,Web Development,NED University,2026-05-12,Selected,7,No,No,10
+Joe Bauer,matthew09@example.net,03012753746,Web Development,Not Specified,2026-05-12,Under Review,4,Yes,No,6
+Diane Sullivan,gabrielle79@example.net,03011358706,Web Development,NED University,2026-05-12,Rejected,5,No,No,7
+Megan Green,tina61@example.net,03013901348,Artificial Intelligence,NED University,2026-05-12,Selected,8,Yes,No,6
+Ashley Ho,not_provided@example.com,03019186965,Data Science,NED University,2026-05-12,Selected,7,Yes,No,7
